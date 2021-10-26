@@ -2,4 +2,4 @@
 
 environment / DQN with E.R.
 
-# epsidoes = 50_000 ~ 100_000
+epsidoes = 50_000 ~ 100_000
